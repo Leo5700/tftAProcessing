@@ -14,7 +14,7 @@
   1. TFT экран ссылка: https://sl.aliexpress.ru/p?key=zWNNtHg магазин SAMIORE Store https://aliexpress.ru/store/1022067?spm=a2g0o.store_pc_home.pcShopHead_12144492.0
   2. Arduino Nano ссылка: https://sl.aliexpress.ru/p?key=ph3atbG магазин S+ S+ S+ Store https://sl.aliexpress.ru/p?key=yb3atko
   3. Макетная плата ссылка: https://sl.aliexpress.ru/p?key=3H3at97 магазин тот же
-  4. Кабель 20 см штекер-штекер (подадобится 8 проводов), ссылка: https://sl.aliexpress.ru/p?key=gz3at7b магазин тот же
+  4. Кабель 20 см male-female (подадобится 8 проводов), ссылка: https://sl.aliexpress.ru/p?key=gz3at7b магазин тот же
 
   ## Распиновка:
   На экране |  ..  | На arduino nano |
