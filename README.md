@@ -1,5 +1,5 @@
 # tftAProcessing
-arduino nano, tft display, several functions of the Processing language implementation
+arduino nano, tft display, implementation of several Processing language functions
 
 
 ![IMG_20230204_223159_res](https://user-images.githubusercontent.com/5260590/216788493-8631ba27-0b26-48d6-83ee-bf41fe81af65.jpg)
